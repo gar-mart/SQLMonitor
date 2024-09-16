@@ -1,0 +1,52 @@
+# Ignore Visual Studio temporary files, build results, and
+# user-specific files.
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files (Mono Auto Generated)
+mono_crash.*
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# Visual Studio 2019+ cache/options directory
+.vscode/
+.vs/
+.vscode/
+
+# Rider
+.idea/
+
+# Auto-generated files (by Visual Studio)
+*.vspscc
+*.vssscc
+*.ncrunchproject
+*.ncrunchsolution
+*.dotCover
+*.coverage
+*.coveragexml
+*.testsettings
+*.vsmdi
+_TestResults/
+*.publishsettings
+*.nuget/packages/*
+*.dbmdl
+*.pfx
+*.publish.xml
+*.jfm

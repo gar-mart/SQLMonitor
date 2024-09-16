@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Performance Monitor", "Performance Monitor\Performance Monitor.sqlproj", "{28915D14-5FCC-4D2A-BE0B-35000E4AE138}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28915D14-5FCC-4D2A-BE0B-35000E4AE138}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28915D14-5FCC-4D2A-BE0B-35000E4AE138}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28915D14-5FCC-4D2A-BE0B-35000E4AE138}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{28915D14-5FCC-4D2A-BE0B-35000E4AE138}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28915D14-5FCC-4D2A-BE0B-35000E4AE138}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28915D14-5FCC-4D2A-BE0B-35000E4AE138}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4E40B09-F6CD-4016-8C78-972AB73193CE}
+	EndGlobalSection
+EndGlobal
